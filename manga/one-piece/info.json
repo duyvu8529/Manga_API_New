@@ -1,0 +1,59 @@
+{
+  "id": "one-piece",
+  "slug": "one-piece",
+  "title": "One Piece",
+  "subtitle": "Đảo hải tặc",
+  "aliases": [],
+  "alternative_titles": [],
+  "search_terms": [
+    "One Piece",
+    "Đảo hải tặc"
+  ],
+  "description": "One Piece là câu truyện kể về Luffy và các thuyền viên của mình. Khi còn nhỏ, Luffy ước mơ trở thành Vua Hải Tặc. Cuộc sống của cậu bé thay đổi khi cậu vô tình có được sức mạnh có thể co dãn như cao su, nhưng đổi lại, cậu không bao giờ có thể bơi được nữa. Giờ đây, Luffy cùng những người bạn hải tặc của mình ra khơi tìm kiếm kho báu One Piece, kho báu vĩ đại nhất trên thế giới. Trong One Piece, mỗi nhân vật trong đều mang một nét cá tính đặc sắc kết hợp cùng các tình huống kịch tính, lối dẫn truyện hấp dẫn chứa đầy các bước ngoặt bất ngờ và cũng vô cùng hài hước đã biến One Piece trở thành một trong những bộ truyện nổi tiếng nhất không thể bỏ qua. Hãy đọc One Piece để hòa mình vào một thế giới của những hải tặc rộng lớn, đầy màu sắc, sống động và thú vị, cùng đắm chìm với những nhân vật yêu tự do, trên hành trình đi tìm ước mơ của mình.",
+  "author": "Eiichiro Oda",
+  "artist": "Eiichiro Oda",
+  "type": "manga",
+  "status": "ongoing",
+  "language": "vi",
+  "year": 1997,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Shounen",
+    "Supernatural"
+  ],
+  "tags": [
+    "Shounen"
+  ],
+  "content_rating": "all-ages",
+  "reading_direction": "vertical",
+  "page_layout": "long-strip",
+  "poster_path": "manga/one-piece/cover.jpg",
+  "poster_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/one-piece/cover.jpg",
+  "poster": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/one-piece/cover.jpg",
+  "info_path": "manga/one-piece/info.json",
+  "info_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/one-piece/info.json",
+  "chapters": [
+    {
+      "id": "chapter-001",
+      "chapter_number": 1,
+      "chapter_label": "1",
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "release_date": "2026-10-27",
+      "page_count": 52,
+      "info_path": "manga/one-piece/chapters/chapter-001/info.json",
+      "info_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/one-piece/chapters/chapter-001/info.json",
+      "updated_at": "2026-10-27T14:01:44.177Z"
+    }
+  ],
+  "chapter_count": 1,
+  "latest_chapter": 1,
+  "latest_chapter_title": "Chapter 1",
+  "created_at": "2026-10-27T14:01:44.177Z",
+  "updated_at": "2026-10-27T14:01:44.177Z"
+}
