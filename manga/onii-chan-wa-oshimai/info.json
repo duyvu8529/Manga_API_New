@@ -54,11 +54,24 @@
       "info_path": "manga/onii-chan-wa-oshimai/chapters/chapter-001/info.json",
       "info_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-001/info.json",
       "updated_at": "2026-10-27T12:44:56.653Z"
+    },
+    {
+      "id": "chapter-1-5",
+      "chapter_number": 1.5,
+      "chapter_label": "1.5",
+      "title": "Mahiro và nhà vệ sinh",
+      "subtitle": "",
+      "description": "",
+      "release_date": "2026-10-27",
+      "page_count": 6,
+      "info_path": "manga/onii-chan-wa-oshimai/chapters/chapter-1-5/info.json",
+      "info_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-1-5/info.json",
+      "updated_at": "2026-10-27T13:44:22.496Z"
     }
   ],
-  "chapter_count": 1,
-  "latest_chapter": 1,
-  "latest_chapter_title": "Mahiro và cơ thể không dễ chịu",
+  "chapter_count": 2,
+  "latest_chapter": 1.5,
+  "latest_chapter_title": "Mahiro và nhà vệ sinh",
   "created_at": "2026-10-27T12:44:56.653Z",
-  "updated_at": "2026-10-27T12:44:56.653Z"
+  "updated_at": "2026-10-27T13:44:22.496Z"
 }

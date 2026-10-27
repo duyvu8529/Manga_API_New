@@ -1,0 +1,54 @@
+{
+  "id": "chapter-1-5",
+  "chapter_number": 1.5,
+  "chapter_label": "1.5",
+  "title": "Mahiro và nhà vệ sinh",
+  "subtitle": "",
+  "description": "",
+  "release_date": "2026-10-27",
+  "page_count": 6,
+  "info_path": "manga/onii-chan-wa-oshimai/chapters/chapter-1-5/info.json",
+  "info_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-1-5/info.json",
+  "updated_at": "2026-10-27T13:44:22.496Z",
+  "manga_id": "onii-chan-wa-oshimai",
+  "manga_title": "Onii-Chan Wa Oshimai!",
+  "pages": [
+    {
+      "page_number": 1,
+      "filename": "001.jpg",
+      "path": "manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/001.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/001.jpg"
+    },
+    {
+      "page_number": 2,
+      "filename": "002.jpg",
+      "path": "manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/002.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/002.jpg"
+    },
+    {
+      "page_number": 3,
+      "filename": "003.jpg",
+      "path": "manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/003.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/003.jpg"
+    },
+    {
+      "page_number": 4,
+      "filename": "004.jpg",
+      "path": "manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/004.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/004.jpg"
+    },
+    {
+      "page_number": 5,
+      "filename": "005.jpg",
+      "path": "manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/005.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/005.jpg"
+    },
+    {
+      "page_number": 6,
+      "filename": "006.jpg",
+      "path": "manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/006.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-1-5/pages/006.jpg"
+    }
+  ],
+  "created_at": "2026-10-27T13:44:22.496Z"
+}
