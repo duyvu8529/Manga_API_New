@@ -1,5 +1,70 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T11:55:22.527Z",
-  "manga": []
+  "updated_at": "2026-10-27T12:44:56.653Z",
+  "manga": [
+    {
+      "id": "onii-chan-wa-oshimai",
+      "slug": "onii-chan-wa-oshimai",
+      "title": "Onii-Chan Wa Oshimai!",
+      "subtitle": "Onii-Chan Is Done For",
+      "aliases": [
+        "Không làm Onii-chan nữa",
+        "Không làm anh trái nữa"
+      ],
+      "alternative_titles": [
+        "Không làm Onii-chan nữa",
+        "Không làm anh trái nữa"
+      ],
+      "search_terms": [
+        "Onii-Chan Wa Oshimai!",
+        "Onii-Chan Is Done For",
+        "Không làm Onii-chan nữa",
+        "Không làm anh trái nữa"
+      ],
+      "description": "Thấy Neet Onii-chan ở mãi trong phòng suốt 2 năm, Imotou biến thím ấy thành gái luôn",
+      "author": "Nekotoufu",
+      "artist": "Nekotoufu",
+      "type": "manga",
+      "status": "ongoing",
+      "language": "vi",
+      "year": 2018,
+      "genres": [
+        "Comedy",
+        "Gender Bender",
+        "Sci-fi",
+        "Slice of Life"
+      ],
+      "tags": [
+        "Slice of Life"
+      ],
+      "content_rating": "all-ages",
+      "reading_direction": "vertical",
+      "page_layout": "long-strip",
+      "poster_path": "manga/onii-chan-wa-oshimai/cover.jpg",
+      "poster_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/cover.jpg",
+      "poster": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/cover.jpg",
+      "info_path": "manga/onii-chan-wa-oshimai/info.json",
+      "info_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/info.json",
+      "chapters": [
+        {
+          "id": "chapter-001",
+          "chapter_number": 1,
+          "chapter_label": "1",
+          "title": "Mahiro và cơ thể không dễ chịu",
+          "subtitle": "",
+          "description": "",
+          "release_date": "2026-10-27",
+          "page_count": 14,
+          "info_path": "manga/onii-chan-wa-oshimai/chapters/chapter-001/info.json",
+          "info_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/onii-chan-wa-oshimai/chapters/chapter-001/info.json",
+          "updated_at": "2026-10-27T12:44:56.653Z"
+        }
+      ],
+      "chapter_count": 1,
+      "latest_chapter": 1,
+      "latest_chapter_title": "Mahiro và cơ thể không dễ chịu",
+      "created_at": "2026-10-27T12:44:56.653Z",
+      "updated_at": "2026-10-27T12:44:56.653Z"
+    }
+  ]
 }
