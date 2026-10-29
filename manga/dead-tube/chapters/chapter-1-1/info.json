@@ -1,0 +1,168 @@
+{
+  "id": "chapter-1-1",
+  "chapter_number": 1.1,
+  "chapter_label": "1.1",
+  "title": "",
+  "subtitle": "",
+  "description": "",
+  "release_date": "2026-10-29",
+  "page_count": 25,
+  "info_path": "manga/dead-tube/chapters/chapter-1-1/info.json",
+  "info_url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/info.json",
+  "updated_at": "2026-10-29T13:20:54.784Z",
+  "manga_id": "dead-tube",
+  "manga_title": "Dead Tube",
+  "pages": [
+    {
+      "page_number": 1,
+      "filename": "001.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/001.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/001.jpg"
+    },
+    {
+      "page_number": 2,
+      "filename": "002.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/002.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/002.jpg"
+    },
+    {
+      "page_number": 3,
+      "filename": "003.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/003.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/003.jpg"
+    },
+    {
+      "page_number": 4,
+      "filename": "004.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/004.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/004.jpg"
+    },
+    {
+      "page_number": 5,
+      "filename": "005.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/005.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/005.jpg"
+    },
+    {
+      "page_number": 6,
+      "filename": "006.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/006.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/006.jpg"
+    },
+    {
+      "page_number": 7,
+      "filename": "007.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/007.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/007.jpg"
+    },
+    {
+      "page_number": 8,
+      "filename": "008.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/008.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/008.jpg"
+    },
+    {
+      "page_number": 9,
+      "filename": "009.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/009.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/009.jpg"
+    },
+    {
+      "page_number": 10,
+      "filename": "010.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/010.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/010.jpg"
+    },
+    {
+      "page_number": 11,
+      "filename": "011.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/011.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/011.jpg"
+    },
+    {
+      "page_number": 12,
+      "filename": "012.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/012.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/012.jpg"
+    },
+    {
+      "page_number": 13,
+      "filename": "013.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/013.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/013.jpg"
+    },
+    {
+      "page_number": 14,
+      "filename": "014.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/014.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/014.jpg"
+    },
+    {
+      "page_number": 15,
+      "filename": "015.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/015.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/015.jpg"
+    },
+    {
+      "page_number": 16,
+      "filename": "016.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/016.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/016.jpg"
+    },
+    {
+      "page_number": 17,
+      "filename": "017.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/017.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/017.jpg"
+    },
+    {
+      "page_number": 18,
+      "filename": "018.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/018.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/018.jpg"
+    },
+    {
+      "page_number": 19,
+      "filename": "019.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/019.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/019.jpg"
+    },
+    {
+      "page_number": 20,
+      "filename": "020.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/020.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/020.jpg"
+    },
+    {
+      "page_number": 21,
+      "filename": "021.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/021.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/021.jpg"
+    },
+    {
+      "page_number": 22,
+      "filename": "022.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/022.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/022.jpg"
+    },
+    {
+      "page_number": 23,
+      "filename": "023.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/023.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/023.jpg"
+    },
+    {
+      "page_number": 24,
+      "filename": "024.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/024.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/024.jpg"
+    },
+    {
+      "page_number": 25,
+      "filename": "025.jpg",
+      "path": "manga/dead-tube/chapters/chapter-1-1/pages/025.jpg",
+      "url": "https://raw.githubusercontent.com/duyvu8529/Manga_API_New/main/manga/dead-tube/chapters/chapter-1-1/pages/025.jpg"
+    }
+  ],
+  "created_at": "2026-10-29T13:20:54.784Z"
+}
